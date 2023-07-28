@@ -1,6 +1,6 @@
 ## Welcome to MITRA! 🙋‍♀️
 
-**🕵️ Models under review:**
+**🕵️ Datasets under review:**
 
-- [MT-EN-BO-v1](https://github.com/orgs/dharmamitra/projects/1)
+- [MT-EN-BO-v2](https://github.com/orgs/dharmamitra/projects/1)
 
